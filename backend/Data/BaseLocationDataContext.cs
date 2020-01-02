@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace backend
+namespace backend.Data
 {
     public class BaseLocationDataContext : DbContext
     {
