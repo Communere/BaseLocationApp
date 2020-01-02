@@ -13,7 +13,7 @@ const styles = () =>
   createStyles({
     container: {
       width: "40%",
-      height: "60%",
+      height: "50%",
       borderRadius: "15px",
       textAlign: "right"
     },

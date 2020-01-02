@@ -63,16 +63,6 @@ export const FormData = withStyles(styles)((props: Props) => {
           </Select>
         </Grid>
       </Grid>
-      <Grid container className={props.classes.rowContainer}>
-        <Grid item xs={4}>
-          Logo:
-        </Grid>
-        <Grid item xs={6}>
-          <Button title="upload" color="primary" variant="contained">
-            Upload
-          </Button>
-        </Grid>
-      </Grid>
     </div>
   );
 });
