@@ -6,8 +6,7 @@ import {
   Grid,
   TextField,
   Select,
-  MenuItem,
-  Button
+  MenuItem
 } from "@material-ui/core";
 import { Map } from "./Map";
 
